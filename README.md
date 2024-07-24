@@ -6,8 +6,8 @@
 <Br>
 <h1>Un poco sobre mi! 😎</h1>
 
--Soy un apasionado de la tecnología y la programación💻
--Estudiante de licenciatura en sisteamas en la UBA🤓
+-Soy un apasionado de la tecnología y la programación💻<Br>
+-Estudiante de licenciatura en sisteamas en la UBA🤓<Br>
 -Mis hobbies son el basquet🏀 y la fotografia📸
 
 <hr>
