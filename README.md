@@ -16,9 +16,6 @@ Soy estudiante de Licenciatura en sistemas de la Facultad de Ingenieria de la UB
  
   <a href="https://www.linkedin.com/in/nicolás-domínguez-918089271" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue"/>
   <a href="mailto:dominguez.nicolas@outlook.com" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/mail-red?style=flat-square"/>
-
-  <a href="mailto:dominguez.nicolas@outlook.com" target="blank"><img align="center" src="https://img.shields.io/badge/mail-red?style=flat-square"/>
-
 </p>
   
 <Br>
