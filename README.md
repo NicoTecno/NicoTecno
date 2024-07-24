@@ -18,7 +18,6 @@ Soy estudiante de Licenciatura en sistemas de la Facultad de Ingenieria de la UB
   <a href="mailto:dominguez.nicolas@outlook.com" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/mail-red?style=flat-square"/>
 </p>
 
-<Br>
 &emsp;
 ## 🛠️ My Skills
 -------------------
