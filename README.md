@@ -2,12 +2,14 @@
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
 <hr>
-<h1 align="center">Hola soy <a href="https://github.com/Aryagm">Nicolás Domínguez<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">Hola soy <a href="">Nicolás Domínguez<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 <h1>Un poco sobre mi! 😎</h1>
 
-Soy estudiante de Licenciatura en sistemas de la Facultad de Ingenieria de la UBA y apasionado de la programacion con ganas de aprender nuevas tecnologias 
-  
+-Soy un apasionado de la tecnología y la programación💻
+-Estudiante de licenciatura en sisteamas en la UBA🤓
+-Mis hobbies son el basquet🏀 y la fotografia📸
+
 <hr>
 <Br>
 <h1 align="center">Contacto! 📬</h1>
