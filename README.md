@@ -14,7 +14,7 @@ Soy estudiante de Licenciatura en sistemas de la Facultad de Ingenieria de la UB
 <Br>
 <p align="center">
  
-  <a href="https://www.linkedin.com/in/nicolás-domínguez-918089271" target="blank">< <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue">/>
+  <a href="https://www.linkedin.com/in/nicolás-domínguez-918089271" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue"/>
 
 <a href="https://www.linkedin.com/in/nicolás-domínguez-918089271" target="blank"><img align="center" src="https://img.shields.io/badge/Arya Manjaramkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white(https://img.shields.io/badge/Linkedin-blue
 )" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:aryagm01@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/aryagm01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Aryagm" target="blank"><img align="center" src="https://img.shields.io/badge/Aryagm-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
