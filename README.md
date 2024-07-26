@@ -28,7 +28,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
-![PineScript](https://img.shields.io/badge/-PineScript-000?&logo=TradingView)
+![Scala](https://img.shields.io/badge/-Scala-000?&logo=Scala)
 ### Frontend development:
 &emsp;
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
