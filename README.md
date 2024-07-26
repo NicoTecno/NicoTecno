@@ -73,8 +73,9 @@
 <Br>
 <h1>Some of my Projects! 🎨</h1>
 <Br>
-  
-[![ReadMe Card](https://github.com/NicoTecno/ecommerceReactNative)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![ReadMe Card](https://github.com/NicoTecno/ecommerceReactNative)
 
 <Br>
 <hr>
