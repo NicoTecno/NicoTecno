@@ -76,6 +76,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ![ReadMe Card](https://github.com/NicoTecno/ecommerceReactNative)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=California_Housing_Prices)](https://github.com/Aryagm/California_Housing_Prices)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicoTecno&repo=ecommerceReactNative)](https://github.com/NicoTecno/ecommerceReactNative)
 
 <Br>
 <hr>
