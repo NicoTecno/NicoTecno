@@ -80,16 +80,15 @@
 
 <p align="center">
   <a href="https://github.com/NicoTecno/ecommerceReactNative">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoTecno&repo=ecommerceReactNative&theme=dark&border_radius=10&cache=1" alt="ecommerceReactNative" />
+    <img src="https://img.shields.io/badge/Project-Ecommerce_React_Native-blue?style=for-the-badge&logo=react&logoColor=white" />
   </a>
   <a href="https://github.com/NicoTecno/ProyectoFinalDominguez">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoTecno&repo=ProyectoFinalDominguez&theme=dark&border_radius=10&cache=1" alt="ProyectoFinalDominguez" />
+    <img src="https://img.shields.io/badge/Project-Proyecto_Final_Coder-green?style=for-the-badge&logo=node.js&logoColor=white" />
   </a>
   <a href="https://github.com/NicoTecno/JavaScriptProyectoFinalDominguez">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoTecno&repo=JavaScriptProyectoFinalDominguez&theme=dark&border_radius=10&cache=1" alt="JavaScriptProyectoFinalDominguez" />
+    <img src="https://img.shields.io/badge/Project-JS_Final_Project-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
   </a>
 </p>
-
 <Br>
 <hr>
 <Br>
