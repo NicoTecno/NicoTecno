@@ -74,9 +74,7 @@
 <h1>Some of my Projects! 🎨</h1>
 <Br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicoTecno&repo=ecommerceReactNative)](https://github.com/NicoTecno/ecommerceReactNative)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicoTecno&repo=ProyectoFinalDominguez)](https://github.com/NicoTecno/ProyectoFinalDominguez)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicoTecno&repo=JavaScriptProyectoFinalDominguez)](https://github.com/NicoTecno/JavaScriptProyectoFinalDominguez)
+
 
 <p align="center">
   <a href="https://github.com/NicoTecno/ecommerceReactNative">
