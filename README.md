@@ -78,9 +78,17 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicoTecno&repo=ProyectoFinalDominguez)](https://github.com/NicoTecno/ProyectoFinalDominguez)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicoTecno&repo=JavaScriptProyectoFinalDominguez)](https://github.com/NicoTecno/JavaScriptProyectoFinalDominguez)
 
-<a href="https://github.com/NicoTecno/ecommerceReactNative">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NicoTecno&repo=ecommerceReactNative&theme=radical" />
-</a>
+<p align="center">
+  <a href="https://github.com/NicoTecno/ecommerceReactNative">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoTecno&repo=ecommerceReactNative&theme=dark&border_radius=10&cache=1" alt="ecommerceReactNative" />
+  </a>
+  <a href="https://github.com/NicoTecno/ProyectoFinalDominguez">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoTecno&repo=ProyectoFinalDominguez&theme=dark&border_radius=10&cache=1" alt="ProyectoFinalDominguez" />
+  </a>
+  <a href="https://github.com/NicoTecno/JavaScriptProyectoFinalDominguez">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicoTecno&repo=JavaScriptProyectoFinalDominguez&theme=dark&border_radius=10&cache=1" alt="JavaScriptProyectoFinalDominguez" />
+  </a>
+</p>
 
 <Br>
 <hr>
