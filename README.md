@@ -78,6 +78,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicoTecno&repo=ProyectoFinalDominguez)](https://github.com/NicoTecno/ProyectoFinalDominguez)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicoTecno&repo=JavaScriptProyectoFinalDominguez)](https://github.com/NicoTecno/JavaScriptProyectoFinalDominguez)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicoTecno&repo=ecommerceReactNative&show_owner=true)](https://github.com/NicoTecno/ecommerceReactNative)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicoTecno&repo=ProyectoFinalDominguez&show_owner=true)](https://github.com/NicoTecno/ProyectoFinalDominguez)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicoTecno&repo=JavaScriptProyectoFinalDominguez&show_owner=true)](https://github.com/NicoTecno/JavaScriptProyectoFinalDominguez)
 
 <Br>
 <hr>
