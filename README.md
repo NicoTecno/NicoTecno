@@ -1,15 +1,28 @@
- <p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
-</p>
-<hr>
-<h1 align="center">Hola soy <a href="">Nicolás Domínguez<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
-<Br>
-<h1>Un poco sobre mi! 😎</h1>
+<div align="center">
 
--Soy un apasionado de la tecnología y la programación💻<Br>
--Estudiante de licenciatura en sistemas en la UBA🤓<Br>
--Mis hobbies son el basquet🏀 y la fotografia📸
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4E54C8,100:8F94FB&height=230&section=header&text=Nicolas%20Dominguez&fontSize=48&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20-%20Estudiante%20de%20Sistemas%20en%20la%20UBA&descAlignY=58&descSize=16" width="100%" alt="Header"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;Estudiante+de+Sistemas+en+la+UBA;Fan+del+basquet+y+la+fotografia;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG"/>
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFB627?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nicotecno.github.io/PortfolioWeb/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolás-domínguez-918089271)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:dominguez.nicolas@outlook.com)
+
+</div>
+
+<br/>
+
+## 👋 Sobre mí
+
+- 💻 Apasionado por la tecnología y la programación, siempre en busca de aprender algo nuevo.
+- 🎓 Estudiante de la **Licenciatura en Sistemas** en la **Universidad de Buenos Aires (UBA)**.
+- 📜 Formación complementaria en **Coderhouse**, con certificaciones en Full Stack, Backend, React y JavaScript.
+- 🏀 Fuera del código, lo más probable es que esté jugando al básquet o con la cámara en mano haciendo fotografía.
+- 🌐 Podés conocer mis proyectos con más detalle en mi **[portfolio web](https://nicotecno.github.io/PortfolioWeb/)**.
+
+<br/>
 <hr>
 <Br>
 <h1 align="center">Contacto! 📬</h1>
